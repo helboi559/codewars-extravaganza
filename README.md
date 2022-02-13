@@ -1,10 +1,10 @@
 # Codewars Extravaganza
 
-Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
+Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives".
 
 Start out by forking and cloning this repository.
 
-**Your challenge is to complete at least TEN of the following CodeWars problems.** 
+**Your challenge is to complete at least TEN of the following CodeWars problems.**
 
 Upon completing a problem, upload a screenshot of the success screen on the CodeWars website to this repository then embed it in the README.md file so it can be easily checked.
 
@@ -16,7 +16,9 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 
 ## Screenshots
 
-```[insert your succeess screenshots here]```
+<img width="400px" src="./pics/multiply.png" alt="multiply" />
+
+`[insert your succeess screenshots here]`
 
 ## Problems
 

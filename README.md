@@ -16,9 +16,41 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 
 ## Screenshots
 
+`[insert your succeess screenshots here]`
+
+**Multiply**
 <img width="400px" src="./pics/multiply.png" alt="multiply" />
 
-`[insert your succeess screenshots here]`
+**Highest/Lowest**
+<img width="400px" src="./pics/highest-and-lowest.png" alt="high-low" />
+
+**Get Middle Character**
+<img width="400px" src="./pics/get-middle-char.png" alt="middle-char" />
+
+**Mumbling (2-pics)**
+<img width="400px" src="./pics/mumbling-1.png" alt="Mumbling-1" />
+<img width="400px" src="./pics/mumbling-2.png" alt="Mumbling-2" />
+
+**Remove first and last**
+<img width="400px" src="./pics/remove-first-and-last.png" alt="Remove-first-and-last" />
+
+**Shortest Word**
+<img width="400px" src="./pics/shortest-word.png" alt="shortest-word" />
+
+**Smallest interger in Array**
+<img width="400px" src="./pics/smallest-int-in-array.png" alt="smallest-int-in-array" />
+
+**Square Every Digit**
+<img width="400px" src="./pics/square-every-digit.png" alt="square-every-digit" />
+
+**Sum of numbers**
+<img width="400px" src="./pics/sum-numbers.png" alt="sum-numbers" />
+
+**Sum of positive**
+<img width="400px" src="./pics/sum-of-positive.png" alt="sum-of-positive" />
+
+**Vowel Count**
+<img width="400px" src="./pics/vowel-count.png" alt="vowel-count" />
 
 ## Problems
 
